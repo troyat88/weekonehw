@@ -53,5 +53,5 @@ to class="main-content" and "aside content".
  https://troyat88.github.io/weekonehw/
  ---
  ## Final Product
-![Rendition of Final Solution](./Assets/images/HORISEON.png) 
+![Rendition of Final Solution](/Assets/images/HORISEON.png) 
 
