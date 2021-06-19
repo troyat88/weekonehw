@@ -13,21 +13,21 @@ I then inspected HTMl and CSS for semantic structure and accessibility making su
 ---
 
 ## Areas of improvement found with initial inspection of site
-1. The title if the page is "website"
+1. The title of the page is "website"
 2. "Search Engine Optimization" link in Nav section not working
 3. No Favicon
-4. Conttrast in H1 for "SEO" more confusing than obviously highlighting "SEO" for effect
+4. Contrast in H1 for "SEO" more confusing than obviously highlighting "SEO" for effect
 
 ## Changes made in HTML or CSS
-1. Changed title element to display "Horieseon Marketing Solution" to satisfy identifying website and search engine performance.
-2. HTML for the "Search Engine Optimization link was correct, however ID was missing in corresponding section within the body.
+1. Changed title element to display "Horieseon Marketing Solutions" to satisfy identifying website and search engine performance.
+2. HTML for the "Search Engine Optimization" link was correct, however ID was missing in corresponding section within the body. Added ID to fix issue.
 3. Added favicon using "cost-management.png" from existing Images directory
-4. Switched the colors for "SEO" in Horiseon H1 element, so that rest of text is grey and SEO stands out in white
+4. Switched the colors for "SEO" in Horiseon H1 element, so that rest of text is grey and SEO stands out in white.
 
 ---
 
 ## Areas of improvement found in HTML (focus on semantics and accessibility)
-1. Div's weere assigned ID or Class that represented parent and child semantic elements, causing HTML to be more cluttered than necessary.
+1. Div's were assigned ID or Class that represented parent and child semantic elements, causing HTML to be more cluttered than necessary.
 2. Images were missing ALT attributes. 
 3. Header section missing META content- Description. 
 
@@ -46,8 +46,8 @@ to class="main-content" and "aside content".
 
 ## Changes made to CSS
 1. Restructured CSS style sheet so that styling flowed with the order of elements in CSS.
-2. Decluttered by using one class where multiple classes were created to style child elements of "main" and "aside" parent elements. Reflected changes made in HTML.
-3. Added comments in CSS to mark what sections were being styled. 
+2. Decluttered by using one class where multiple classes were created to style child elements of "main" and "aside" parent elements. Selectors reflect changes made in HTML.
+3. Added comments in CSS to mark what sections were being styled, to assist in making future changes to styling easier. 
 ---
  ## Link to deployed site
  https://troyat88.github.io/weekonehw/
