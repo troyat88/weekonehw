@@ -48,3 +48,10 @@ to class="main-content" and "aside content".
 1. Restructured CSS style sheet so that styling flowed with the order of elements in CSS.
 2. Decluttered by using one class where multiple classes were created to style child elements of "main" and "aside" parent elements. Reflected changes made in HTML.
 3. Added comments in CSS to mark what sections were being styled. 
+---
+ ## Link to deployed site
+ https://troyat88.github.io/weekonehw/
+ ---
+ ## Final Product
+![Rendition of Final Solution](./Assets/images/HORISEON.png) 
+
