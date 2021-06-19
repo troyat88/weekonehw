@@ -1,11 +1,11 @@
-# 01 HTML, CSS, and Git: Code Refactor 
+# HTML and CSS: Code Refactor 
 ## Homework Assignment #1
 ---
 
 ## Assignment Objectives 
 ---
 Refactor Code for Horiseon website for accessibility by:
-1. Ensuring use of esmantic elements and structure for HTML and CSS.
+1. Ensuring use of semantic elements and structure on HTML and CSS for website accessibilty.
 2. Improve/modify HTML and CSS where possible for website function.
 
 In order to complete these objectives I inspected the website for issues and implemented changes in code as needed. 
